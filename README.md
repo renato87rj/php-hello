@@ -1,5 +1,4 @@
 # PHP Hello World
-Hello World com php de uma maneira diferente com poo
 
 Utilizando um pouco de orientação a objetos esse projetinho mostra como fazer um "hello world" com php de uma maneira diferente e mais moderna.
 
