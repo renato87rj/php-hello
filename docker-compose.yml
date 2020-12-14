@@ -8,4 +8,9 @@ services:
     volumes: 
       - ./:/var/www/html
     command: php -S 0.0.0.0:9000 -t public/
-    
+  
+  composer:
+    image: composer
+    command: install
+    volumes:
+      - ./:/app
